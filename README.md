@@ -1,4 +1,4 @@
-# Plateforme-SOC-Supervision-de-la-S-curit-R-seau-et-Tests-d-Intrusion
+# SOC Platform: Network Security Monitoring and Penetration Testing
 
 <img width="1164" height="746" alt="image" src="https://github.com/user-attachments/assets/bce4cf46-92d2-4a96-917d-8ef3e1d38ab4" />
 
